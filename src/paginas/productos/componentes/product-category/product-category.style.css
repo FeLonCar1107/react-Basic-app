@@ -1,0 +1,22 @@
+.product-category-container {
+    width: 270px;
+    height: 30px;
+    margin: 0 auto;
+    border: 2px solid turquoise;
+    text-align:left ;
+}
+
+.product-category2-container {
+    width: 270px;
+    height: 30px;
+    margin-top: 112px;
+    margin-left: -2px;
+    border: 2px solid turquoise;
+    text-align: left;
+    
+}
+
+.product-category-input {
+    padding: 10px;
+    margin-bottom: 10px;
+}

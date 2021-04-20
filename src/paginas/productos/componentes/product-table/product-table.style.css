@@ -1,0 +1,14 @@
+.product-table-container {
+    width: 95%;
+    min-height: 305px;
+    margin: 0 auto;
+    border: 2px solid green;
+    margin-top: 10px;
+    text-align:left ;
+
+}
+
+.product-table-input-input {
+    margin-bottom: 10px;
+
+}
